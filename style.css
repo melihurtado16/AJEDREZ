@@ -1,0 +1,71 @@
+body {
+	text-align: center;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	background: url("media/pexels-adrien-olichon-1257089-2387793.jpg");
+    background-size: cover;
+}
+
+
+.contenedor{
+background: rgba(10, 28,16, 6);
+width: 31.6%;
+height: 480px;
+background: rgb(88, 92, 92);
+margin: 0 auto;
+border: 3px solid #000;
+border-radius: 4px;
+}
+
+
+.blanco{
+	width: 60px;
+	height: 60px;
+	background: white;
+}
+.negro{
+	width: 60px;
+	height: 60px;
+	background: black;
+}
+.col-a{
+   
+	width: 60px;
+	z-index: 100;
+}
+
+
+.ficha-black{
+	font-size: 50px;
+	color: rgb(75, 72, 72);
+}
+.ficha-white{
+	font-size: 50px;
+	color: rgb(67, 67, 75);
+}
+
+.blanco{
+	width: 60px;
+	height: 60px;
+	background: white;
+}
+.negro{
+	width: 60px;
+	height: 60px;
+	background: black;
+}
+.col-a{
+    float: left;
+	width: 60px;
+	z-index: 100;
+}
+
+
+.ficha-black{
+	font-size: 50px;
+	color: rgb(75, 72, 72);
+}
+.ficha-white{
+	font-size: 50px;
+	color: rgb(67, 67, 75);
+}
